@@ -1,0 +1,141 @@
+#ItemID	ItemName	UnlockLvl	DefaultSP	ProdTime	XP	ItemType	Machine	MName	BoatReqMin	BoatReqMax	BoatXP	BoatCoins	Cost	Ing1	Ing1Qty	Ing2	Ing2Qty	Ing3	Ing3Qty	Ing4	Ing4Qty	Harv0Time	Harv1	Harv1Time	Harv2	Harv2Time	Harv3	Harv3Time	Harv4
+1	Egg	1	5	20	2	1	1	Animal	20	7	8
+2	Milk	6	9	60	3	1	1	Animal	8	13	13	14
+3	Bacon	10	14	240	5	1	1	Animal	5	7	19	21
+4	Wool	16	15	360	5	1	1	Animal	5	7	22	24
+5	Goat Milk	32	18	480	6	1	1	Animal	5	7	25	28
+6	Raspberries	19	13	1080	9	2	2	Bush	2	17	26	220	1080	2	1080	3	1080	4	1080	4
+7	Blackberries	26	23	1920	16	2	2	Bush	4	6	32	47	530	1860	2	1860	3	1860	4	1860	4
+8	Coffee Beans	42	18	1440	12	2	2	Bush	4	6	25	37	375	1440	2	1440	3	1440	4	1440	4
+9	Wheat	1	1	2	1	4	4	Field	50	75	1	2	2
+10	Corn	2	2	5	1	4	4	Field	50	79	2	2	5
+11	Soybean	5	3	20	2	4	4	Field	24	30	3	5	20
+12	Sugarcane	7	4	30	3	4	4	Field	18	19	4	6	30
+13	Carrot	9	2	10	2	4	4	Field	32	39	3	3	10
+14	Indigo	13	7	120	5	4	4	Field	8	12	8	10	120
+15	Pumpkin	15	9	180	6	4	4	Field	10	12	9	12	180
+16	Chili Pepper	25	10	240	7	4	4	Field	7	11	12	14	240
+17	Tomato	30	12	360	8	4	4	Field	6	8	13	17	360
+18	Strawberry	34	14	480	10	4	4	Field	3	7	14	19	480
+19	Potato	35	10	220	7	4	4	Field	6	11	10	14	220
+20	Rice	56	5	45	3	4	4	Field	21	7	45
+21	Lettuce	58	9	210	7	4	4	Field	10	13	210
+22	Axe	1	10	9	5	Found
+23	Bolt	2	75	5	5	Found
+24	Land Deed	3	112	7	5	Found
+25	Duct Tape	4	75	5	5	Found
+26	Dynamite	5	7	8	5	Found
+27	Mallet	6	112	7	5	Found
+28	Marker Stake	7	112	7	5	Found
+29	Nail	8	75	6	5	Found
+30	Plank	9	75	5	5	Found
+31	Saw	10	15	9	5	Found
+32	Screw	11	75	6	5	Found
+33	Shovel	12	30	8	5	Found
+34	TNT	13	20	8	5	Found
+35	Wood Panel	14	75	6	5	Found
+36	Apples	15	11	960	7	3	3	Tree	8	12	15	22	160	960	2	960	3	960	4	960	4
+37	Cherries	22	19	1680	13	3	3	Tree	5	26	40	410	1620	2	1620	3	1620	4	1620	4
+38	Cacaos	36	24	2040	16	3	3	Tree	4	6	49	550	2040	2	2040	3	2040	4	2040	4
+39	Olives	57	23	1440	17	3	3	Tree	4	50	620	1440	2	1440	3	1440	4	1440	4
+40	Bread	3	6	5	3	10	6	Bakery	16	22	11	11	Wheat	3
+41	Corn Bread	7	20	30	8	10	6	Bakery	4	6	35	36	Corn	2	Egg	2
+42	Cookies	10	29	60	13	10	6	Bakery	5	52	54	Wheat	2	Egg	2	Brown Sugar	1
+43	Raspberry Muffin	19	39	45	17	10	6	Bakery	3	69	72	Wheat	2	Egg	1	Raspberry	2
+44	Blackberry Muffin	26	63	45	27	10	6	Bakery	3	112	117	Wheat	1	Egg	2	Blackberry	2
+45	Pizza	33	53	15	23	10	6	Bakery	2	4	94	98	Wheat	2	Tomato	1	Cheese	1
+46	Spicy Pizza	37	63	15	27	10	6	Bakery	2	112	117	Wheat	2	Tomato	1	Cheese	1	Chili Pepper	1
+47	Potato Bread	39	79	45	34	10	6	Bakery	2	142	147	Potato	2	White Sugar	1	Egg	3	Butter	1
+48	Frutti di Mare Pizza	45	112	15	48	10	6	Bakery	2	200	208	Wheat	2	Fish Fillet	1	Cheese	1	Lobster Tail	1
+49	Chicken Feed	3	2	5	1	10	7	Feed Mill	Wheat	2	Corn	1
+50	Cow Feed	6	4	10	2	10	7	Feed Mill	Corn	1	Soybean	2
+51	Pig Feed	10	4	20	2	10	7	Feed Mill	Carrot	2	Soybean	1
+52	Sheep Feed	16	4	30	3	10	7	Feed Mill	Wheat	3	Soybean	1
+53	Goat Feed	32	4	40	3	10	7	Feed Mill	Wheat	1	Corn	1	Carrot	2
+54	Cream	6	14	20	6	10	9	Dairy	8	10	24	25	Milk	1
+55	Butter	9	23	30	10	10	9	Dairy	4	6	42	44	Milk	2
+56	Cheese	12	34	60	15	10	9	Dairy	3	4	61	64	Milk	3
+57	Goat Cheese	33	45	90	19	10	9	Dairy	2	3	80	83	Goat Milk	2
+58	Brown Sugar	7	9	20	4	10	10	Sugar Mill	8	13	16	16	Sugarcane	1
+59	White Sugar	13	14	40	6	10	10	Sugar Mill	8	26	27	Sugarcane	2
+60	Syrup	18	25	90	11	10	10	Sugar Mill	3	4	45	47	Sugarcane	4
+61	Popcorn	8	9	30	4	10	11	Popcorn Pot	13	16	17	17	Corn	2
+62	Buttered Popcorn	16	35	60	15	10	11	Popcorn Pot	4	62	65	Corn	2	Butter	1
+63	Chili Popcorn	25	34	120	15	10	11	Popcorn Pot	3	4	61	63	Corn	2	Chili Pepper	2
+64	Chocolate Popcorn	44	69	150	29	10	11	Popcorn Pot	2	4	122	127	Corn	2	Cacaos	2
+65	Pancakes	9	30	30	13	10	12	BBQ Grill	3	4	54	56	Egg	3	Brown Sugar	1
+66	Bacon and Eggs	11	56	60	24	10	12	BBQ Grill	3	4	100	104	Egg	4	Bacon	2
+67	Hamburger	18	50	120	22	10	12	BBQ Grill	2	90	93	Bread	2	Bacon	2
+68	Fish Burger	27	63	60	27	10	12	BBQ Grill	2	112	116	Fish Fillet	2	Chili Pepper	1	Bread	2
+69	Roasted Tomatoes	30	33	90	14	10	12	BBQ Grill	3	4	59	62	Tomato	2
+70	Baked Potato	35	83	35	36	10	12	BBQ Grill	2	149	155	Potato	2	Chili Pepper	1	Cream	1	Cheese	1
+71	Fish and Chips	41	68	90	29	10	12	BBQ Grill	2	121	126	Fish Fillet	2	Potato	3
+72	Carrot Pie	14	23	60	10	10	13	Pie Oven	7	40	42	Carrot	3	Egg	1	Wheat	2
+73	Pumpkin Pie	15	44	120	19	10	13	Pie Oven	3	79	82	Pumpkin	3	Egg	1	Wheat	2
+74	Bacon Pie	18	61	180	26	10	13	Pie Oven	2	110	114	Bacon	3	Egg	1	Wheat	2
+75	Apple Pie	28	75	150	32	10	13	Pie Oven	2	135	140	Apple	3	Egg	1	Wheat	2	Syrup	1
+76	Fish Pie	28	63	120	27	10	13	Pie Oven	2	3	113	117	Fish Fillet	3	Wheat	2	Egg	1
+77	Feta Pie	34	62	90	26	10	13	Pie Oven	1	2	110	114	Goat Cheese	1	Egg	1	Wheat	2
+78	Casserole	36	102	120	39	10	13	Pie Oven	2	182	189	Potato	2	Egg	2	Bacon	2	Cheese	1
+79	Shepherds Pie	39	78	100	31	10	13	Pie Oven	2	140	146	Potato	2	Bacon	2	Carrot	2	Pumpkin	2
+80	Sweater	17	42	120	18	10	15	Loom	3	74	77	Wool	2
+81	Blue Woolly Hat	19	31	60	13	10	15	Loom	3	4	55	57	Wool	1	Indigo	1
+82	Blue Sweater	20	58	180	22	10	15	Loom	2	91	95	Wool	2	Indigo	2
+83	Red Scarf	48	80	150	34	10	15	Loom	1	Wool	2	Strawberry	2
+84	Carrot Cake	21	46	90	20	10	16	Cake Oven	3	83	86	Carrot	2	Brown Sugar	1	Butter	1
+85	Cream Cake	23	61	180	26	10	16	Cake Oven	2	3	108	112	Wheat	5	Cream	1	White Sugar	1
+86	Red Berry Cake	23	71	60	31	10	16	Cake Oven	2	3	127	132	Raspberry	1	Milk	1	Cherry	2	Egg	1
+87	Cheesecake	24	79	240	34	10	16	Cake Oven	1	140	146	Cheese	1	Cookies	1
+88	Strawberry Cake	35	88	180	38	10	16	Cake Oven	1	2	156	163	Wheat	3	Strawberry	2	Cream	1	White Sugar	1
+89	Chocolate Cake	36	89	120	38	10	16	Cake Oven	1	2	159	165	Cacaos	2	Brown Sugar	1	Butter	1
+90	Potato Feta Cake	38	86	120	32	10	16	Cake Oven	1	153	159	Potato	1	Egg	4	Goat Cheese	1
+91	Silver Bar	24	33	480	14	10	18	Smelter	59	61	Siver Ore	3
+92	Gold Bar	25	41	720	18	10	18	Smelter	73	76	Gold Ore	3
+93	Platinum Bar	25	49	960	21	10	18	Smelter	87	90	Platinum Ore	3
+94	Carrot Juice	26	13	30	6	10	23	Juice Press	7	10	23	24	Carrot	3
+95	Apple Juice	28	36	120	15	10	23	Juice Press	2	4	64	66	Apple	2
+96	Cherry Juice	30	60	150	26	10	23	Juice Press	2	3	107	111	Cherry	2
+97	Tomato Juice	31	45	90	19	10	23	Juice Press	2	3	81	84	Tomato	3
+98	Berry Juice	34	57	180	24	10	23	Juice Press	2	3	102	106	Blackberry	1	Raspberry	1
+99	Vanilla Ice Cream	29	48	120	20	10	27	Ice Cream Maker	2	3	85	89	Milk	1	Cream	1	White Sugar	1
+100	Cherry Popsicle	33	98	180	42	10	27	Ice Cream Maker	1	2	174	181	Cherry Juice	1	Syrup	1
+101	Strawberry Ice Cream	34	92	240	40	10	27	Ice Cream Maker	1	2	165	171	Cream	1	White Sugar	1	Strawberry	2	Milk	1
+102	Chocolate Ice Cream	39	95	150	41	10	27	Ice Cream Maker	1	2	170	176	Cream	1	White Sugar	1	Cacaos	2	Milk	1
+103	Apple Jam	35	61	360	24	10	28	Jam Maker	1	3	98	102	Apple	3
+104	Raspberry Jam	36	70	420	28	10	28	Jam Maker	1	2	115	119	Raspberry	3
+105	Blackberry Jam	37	108	480	46	10	28	Jam Maker	1	2	192	199	Blackberry	3
+106	Cherry Jam	38	93	420	39	10	28	Jam Maker	1	2	162	168	Cherry	3
+107	Strawberry Jam	50	75	450	32	10	28	Jam Maker	1	2	134	140	Strawberry	3
+108	Bracelet	38	118	120	50	10	29	Jeweler	Silver Bar	1	Gold Bar	1
+109	Necklace	39	169	180	72	10	29	Jeweler	Silver Bar	2	Gold Bar	1	Platinum Bar	1
+110	Diamond Ring	40	196	240	84	10	29	Jeweler	Gold Bar	2	Platinum Bar	2	Diamond	1
+111	Espresso	42	69	5	29	10	30	Coffee Kiosk	2	123	128	Coffee Beans	3	White Sugar	1
+112	Caffe Latte	43	61	10	26	10	30	Coffee Kiosk	2	109	114	Coffee Beans	2	White Sugar	1	Milk	1
+113	Caffe Mocha	45	81	15	19	10	30	Coffee Kiosk	1	2	145	151	Coffee Beans	1	Cream	1	Cacaos	2
+114	Raspberry Mocha	46	72	30	16	10	30	Coffee Kiosk	2	128	134	Cacaos	2	Cream	1	Milk	1	White Sugar	1
+115	Hot Chocolate	47	75	25	32	10	30	Coffee Kiosk	2	133	139	Coffee Beans	1	Cream	1	Cacaos	2	Raspberry	1
+116	Lobster Soup	46	170	150	73	10	37	Soup Kitchen	1	303	315	Lobster Tail	2	Tomato	1	Cream	1	Chili Pepper	1
+117	Tomato Soup	47	133	90	27	10	37	Soup Kitchen	1	237	247	Tomato	2	Chili Pepper	1	Tomato Juice	1	Goat Cheese	1
+118	Fish Soup	53	83	180	35	10	37	Soup Kitchen	1	148	154	Potato	3	Fish Fillet	2	Milk	1	Carrot	1
+119	Caramel Apple	51	71	120	31	10	38	Candy Machine	66	Syrup	2	Apple	1
+120	Toffee	52	49	90	21	10	38	Candy Machine	45	Butter	1	White Sugar	1	Wheat	1
+121	Chocolate	54	128	1200	55	10	38	Candy Machine	119	Cacaos	3	Cream	1	White Sugar	1
+122	Lollipop	57	95	720	41	10	38	Candy Machine	88	Syrup	1	Cherry	1	Strawberry	1
+123	Jelly Beans	60	190	1440	81	10	38	Candy Machine	122	Blackberry Jam	1	Raspberry Jam	1	White Sugar	1
+124	Soy Sauce	54	43	180	19	10	39	Sauce Maker	2	4	77	80	Soybeans	9	Wheat	1
+125	Olive Oil	60	77	45	33	10	39	Sauce Maker	1	2	138	144	Olives	3
+126	Mayonnaise	62	102	15	44	10	39	Sauce Maker	1	183	190	Egg	4	Olive Oil	1
+127	Sushi Roll	56	136	60	58	10	40	Sushi Bar	1	243	253	Rice	15	Fish Fillet	1	Soy Sauce	1
+128	Lobster Sushi	59	177	60	76	10	40	Sushi Bar	1	316	329	Rice	15	Lobster Tail	1	Soy Sauce	1
+129	Egg Sushi	63	153	120	66	10	40	Sushi Bar	1	274	285	Egg	4	Brown Sugar	1	Soy Sauce	1
+130	Feta Salad	58	207	90	89	10	41	Salad Bar	1	369	384	Lettuce	3	Tomatoes	1	Goat Cheese	2	Olives	2
+131	BLT Salad	62	201	105	86	10	41	Salad Bar	1	359	373	Lettuce	3	Tomatoes	1	Bacon	2	Mayonnaise	1
+132	Seafood Salad	64	212	120	91	10	41	Salad Bar	1	379	394	Lettuce	3	Fish Fillet	1	Lobster Tail	1	Mayonnaise	1
+133	Gold Ore	24	5	4	11	17		Mine
+134	Platinum Ore	24	7	5	11	17		Mine
+135	Silver Ore	24	4	3	11	17		Mine
+136	Fish Fillet	27	15	12	24			Fishing Boat
+137	Lobster Tail	44	56	24	12	24		Fishing Boat
+138	BLT Toast	65	180	100	77	10	42	Sandwich Bar	1	333	Bread	2	Bacon	2	Lettuce	3	Mayonnaise	1
+139	Veggie Bagel	61	148	40	63	10	42	Sandwich Bar	1	250	Bread	2	Tomatoes	2	Lettuce	3	Olive Oil	1
+140	Egg Sandwich	66	162	80	69	10	42	Sandwich Bar	1	300	Bread	2	Egg	2	Lettuce	3	Mayonnaise	1
